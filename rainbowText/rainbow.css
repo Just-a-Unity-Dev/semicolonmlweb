@@ -1,3 +1,2 @@
-#grad {
-  background-image: linear-gradient(to bottom right, white, purple, green, yellow);
-}
+background: rgb(255,255,255);
+background: linear-gradient(145deg, rgba(255,255,255,1) 0%, rgba(144,80,160,1) 29%, rgba(70,134,78,1) 64%, rgba(241,255,0,1) 100%);
