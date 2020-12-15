@@ -1,0 +1,8 @@
+hello notebook
+i have a todo list so pls remember to do this
+
+- read trello page
+- update notebook
+
+remember to post in issues about anything at all
+kthxbai
